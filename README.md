@@ -1,7 +1,9 @@
 ## Hi there 👋
-### nagłowek 1
+# nagłowek 1
 ## nagłowek 2
 ###  nagłowek 3
+
+** ELO **
 <!--
 **rusekdawid/rusekdawid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
